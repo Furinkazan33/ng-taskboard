@@ -1,0 +1,12 @@
+{
+  "name": "ng-taskboard",
+  "version": "3.1.4",
+  "private": false,
+  "dependencies": {
+    "my-mongo": "latest"
+  },
+  "main": "index.js",
+  "author": "Mathieu Vidalies",
+  "license": "ISC",
+  "description": "taskboard is a customizable agile taskboard using MongoDB, Socket.io, Materialize, AngularJS, Jquery, Jquery-ui."
+}
